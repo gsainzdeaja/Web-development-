@@ -1,2 +1,3 @@
-# Web-development-
-Developed a website for the Ithaca Apple Harvest Festival in a Web Development course at Cornell University
+# Project 2
+
+**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
